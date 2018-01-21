@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Manoj Shankar AJ</title>
+    <link>https://manojShankarAsu.github.io/project/</link>
+    <description>Recent content in Projects on Manoj Shankar AJ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://manojShankarAsu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adaptive Video Streaming over HTTP</title>
+      <link>https://manojShankarAsu.github.io/project/adaptive-video/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/project/adaptive-video/</guid>
+      <description>Implemented an adaptive client-server video streaming system in which the client analyses the bit rates on the fly and sends a feedback to the server which in turn changes the frame rate and quality of the video to maintain smooth video playback. Developed a mathematical model to judge the bandwidth conditions from the incoming bit-rates and incorporated it in an intelligent algorithm at the client to analyse the incoming video stream.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Video call over LTE in Samsung S5 mobile</title>
+      <link>https://manojShankarAsu.github.io/project/samsung-intern/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/project/samsung-intern/</guid>
+      <description>Worked in the IMS-Media Team, the team that manages the Samsung VoLTE stack. Learnt the architecture of the IMS-Media Framework Client, the VoIP and its component protocols like Session Initiation Protocol (SIP), Real-time Transport Protocol(RTP), Real-time Transport Control Protocol(RTCP) etc. Learnt in detail the inner workings of a video call in Samsung mobile over LTE, ie the capturing of frames by the camera ,the processing and encoding of frames, sending frames in packets over the network, reception and decoding of raw frames of the video.</description>
+    </item>
+    
+    <item>
+      <title>Zoho CRM Mass Operation Framework</title>
+      <link>https://manojShankarAsu.github.io/project/zoho-mass-operations/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/project/zoho-mass-operations/</guid>
+      <description>Worked solo to develop a ‘Mass Operations’ framework for the Zoho CRM web app. This framework lets users to perform bulk operations like updating lakhs of records of a module, deleting unwanted records , transferring huge no of records from one owner to another owner(operations of high significance in the sales aspect of a business ). Developed the scheduling mechanism to schedule these heavy DB related processes with minimal load on the server.</description>
+    </item>
+    
+    <item>
+      <title>Zoho CRM Translations</title>
+      <link>https://manojShankarAsu.github.io/project/zoho-translations/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/project/zoho-translations/</guid>
+      <description> Developed Translation Platform for Zoho CRM which enables users add new languages and translations to the Zoho CRM application. Analysed and used Redis as a cache to efficiently store and quickly retrieve the translations provided by the user. Developed the back-end code in Java to apply the user provided translations efficiently across the whole CRM web application.  </description>
+    </item>
+    
+  </channel>
+</rss>

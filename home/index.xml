@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Manoj Shankar AJ</title>
+    <link>https://manojShankarAsu.github.io/home/</link>
+    <description>Recent content in Homes on Manoj Shankar AJ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://manojShankarAsu.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Manoj Shankar AJ</title>
+      <link>https://manojShankarAsu.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/home/hero/</guid>
+      <description>Master&amp;rsquo;s in Computer Science student at ASU coupled with 2 years software dev experience deeply interested in developing scalable cloud applications/services. Actively seeking 2018 Summer Internship opportunities. (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://manojShankarAsu.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/home/about/</guid>
+      <description>Biography I am a Master&amp;rsquo;s student at Arizona State University, USA pursuing Master&amp;rsquo;s in Computer Science. My areas of interests are building scalable cloud applications/services, Data science and Machine Learning. My career began as a Summer Intern at Samsung R&amp;amp;D Centre, India during my undergraduate. I worked full-time as a Software Development Engineer then at Zoho Corporation developing new features for the cloud application Zoho CRM. I love algorithms, programming and applying computer science concepts to solve real world problems that humanity faces.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://manojShankarAsu.github.io/home/experience/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/home/experience/</guid>
+      <description>• ZOHO CORPORATION, Chennai, India June 2015 - June 2017
+* Role: Member Technical Staff * Worked solo to develop a ‘Mass Operations’ framework for the cloud application Zoho CRM which lets users to perform bulk operations like updating, deleting, changing ownership of up to 100,000 records in a module. * Worked in Translation Platform for Zoho CRM which enables users add new languages and translations to the Zoho CRM application  • SAMSUNG RESEARCH &amp;amp; DEVELOPMENT INSTITUTE, Bangalore, India May 2014 - July 2014</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://manojShankarAsu.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://manojShankarAsu.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://manojShankarAsu.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skill-set</title>
+      <link>https://manojShankarAsu.github.io/home/skillset/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/home/skillset/</guid>
+      <description>Programming Languages: Java, C++, Python, Javascript Databases: MySQL, PostgreSQL, Redis IDE/Tools: NetBeans, Eclipse, GitHub, Mercurial, Jenkins, Perforce Web: HTML, CSS, Handlebars, JSP, jQuery, Ajax Operating Systems: Linux, Mac OS X, Windows(10,7)</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://manojShankarAsu.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://manojShankarAsu.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://manojShankarAsu.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV/Contact</title>
+      <link>https://manojShankarAsu.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/home/contact/</guid>
+      <description>View My CV LinkedIn</description>
+    </item>
+    
+  </channel>
+</rss>

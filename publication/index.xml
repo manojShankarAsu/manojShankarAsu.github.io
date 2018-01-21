@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Manoj Shankar AJ</title>
+    <link>https://manojShankarAsu.github.io/publication/</link>
+    <description>Recent content in Publications on Manoj Shankar AJ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://manojShankarAsu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adaptive video streaming over HTTP through 3G/4G wireless networks employing dynamic on the fly bitrate analysis</title>
+      <link>https://manojShankarAsu.github.io/publication/adaptive-video-streaming/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://manojShankarAsu.github.io/publication/adaptive-video-streaming/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
